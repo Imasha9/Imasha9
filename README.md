@@ -1,3 +1,6 @@
+![logo](https://github.com/Imasha9/Imasha9/blob/main/cvr.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Imasha Nirmani</h1>
 <h3 align="center">A passionate Developer from SriLanka</h3>
 
