@@ -1,4 +1,4 @@
-![logo](https://github.com/Imasha9/Imasha9/blob/main/cvr.jpg)
+![logo](https://github.com/Imasha9/Imasha9/blob/main/linkedin%20banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Imasha Nirmani</h1>
