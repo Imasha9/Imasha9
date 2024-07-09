@@ -1,4 +1,4 @@
-![logo](https://github.com/Imasha9/Imasha9/blob/main/Blue%20%26%20white%20Entrepreneur%20Linkedin%20Article%20Cover%20(10).png)
+![logo](https://github.com/Imasha9/Imasha9/blob/main/cv.png)
 <h1 align="center">Hi 👋, I'm Imasha Nirmani</h1>
 <h3 align="center">A passionate  developer from SriLanka</h3>
 
